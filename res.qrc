@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1star.png</file>
+        <file>res/2star.png</file>
+        <file>res/3star.png</file>
+        <file>res/flag.png</file>
+        <file>res/GROBOLD.ttf</file>
+        <file>res/flagTitle.png</file>
+        <file>res/bomb.png</file>
+    </qresource>
+</RCC>
